@@ -4,7 +4,7 @@ I'm a Developer, Graphics Designer 📲🔭..
 
 :mailbox: Reach me out!
 
-[![telegram Badge](https://img.shields.io/badge/-@TweakPY-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/Bu3srh)
+[![telegram Badge](https://img.shields.io/badge/-@Bu3srh-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/Bu3srh)
 
 
 - My websites:
