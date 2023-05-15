@@ -5,6 +5,7 @@ I'm a Developer, Graphics Designer 📲🔭..
 :mailbox: Reach me out!
 
 [![telegram Badge](https://img.shields.io/badge/-@Bu3srh-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/Bu3srh)
+<a href="https://wakatime.com/@63d38f7b-3b92-4210-950b-02cace324f59"><img src="https://wakatime.com/badge/user/63d38f7b-3b92-4210-950b-02cace324f59.svg" alt="Total time coded since May 1 2023" /></a>
 
 
 - My websites:
