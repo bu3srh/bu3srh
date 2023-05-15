@@ -8,7 +8,7 @@ I'm a Developer, Graphics Designer 📲🔭..
 
 
 - My websites:
-- https://Bu3srh.me
+- https://mazasiri.com
 
 ## 📊 My Github Stats
 
